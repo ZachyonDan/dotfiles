@@ -1,0 +1,7 @@
+[arch]
+docker
+docker-compose
+lazydocker-bin
+caddy
+xcaddy
+tailscale

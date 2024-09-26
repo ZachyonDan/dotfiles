@@ -1,0 +1,16 @@
+[arch]
+# kde stuff
+papirus-icon-theme
+plasma-firewall
+wl-clipboard
+# server stuff
+intel-media-driver
+jellyfin-ffmpeg
+# neovim
+bash-language-server
+go
+lua-language-server
+rustup
+vscode-langservers-extracted
+# fonts
+ttf-hack-nerd

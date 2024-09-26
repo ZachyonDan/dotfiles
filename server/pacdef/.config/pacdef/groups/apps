@@ -1,0 +1,31 @@
+[arch]
+# GUI
+alacritty
+bitwarden
+brave-bin
+calibre
+discover
+foliate
+gimp
+p7zip-gui
+upscayl-bin
+vesktop-bin
+# CLI
+ani-cli-git
+fastfetch
+fish
+flatpak
+mpv
+neovim
+pacdef-bin
+pywal-16-colors
+ripgrep
+rofi-wayland
+starship
+stow
+tgpt
+tldr
+tree
+yt-dlp
+zellij
+gdu
