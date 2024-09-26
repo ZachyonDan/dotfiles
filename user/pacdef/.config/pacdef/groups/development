@@ -1,0 +1,18 @@
+[arch]
+# GUI
+vscodium-bin
+# CLI
+go
+lua-language-server
+python
+stylua
+rustup
+
+[rustup]
+component/stable/cargo
+component/stable/clippy
+component/stable/rustc
+component/stable/rust-docs
+component/stable/rustfmt
+component/stable/rust-std
+toolchain/stable
