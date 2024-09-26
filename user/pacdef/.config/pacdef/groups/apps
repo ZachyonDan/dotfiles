@@ -1,0 +1,40 @@
+[arch]
+# GUI
+alacritty
+audacity
+bitwarden
+brave-bin
+firefox-bin
+gimp
+gwenview
+lutris
+mpv
+p7zip-gui
+spectacle
+speedtest-rs-bin
+steam
+upscayl-bin
+vesktop-bin
+filezilla
+mandarine-appimage
+qbittorrent
+tetrio-desktop
+# CLI
+flatpak
+gdu
+# i2p-bin
+pacdef
+pywal-git
+ripgrep
+rofi-wayland
+starship
+stow
+tailscale
+tgpt
+tldr
+yt-dlp
+zellij
+plocate
+
+[flatpak]
+com.github.zocker_160.SyncThingy
