@@ -1,0 +1,42 @@
+{
+  "confirm-cancel-edit-single-metadata_again": false,
+  "library_delete_books_again": false,
+  "s_r_search_mode": 0,
+  "save to disk dialog": "/home/zach/Downloads",
+  "sort_history": [
+    [
+      "series",
+      true
+    ],
+    [
+      "series",
+      false
+    ],
+    [
+      "series",
+      true
+    ],
+    [
+      "series",
+      false
+    ],
+    [
+      "series",
+      true
+    ],
+    [
+      "title",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_device": "default",
+  "welcome_wizard_was_run": true
+}
